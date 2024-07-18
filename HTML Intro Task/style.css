@@ -1,0 +1,31 @@
+.logo{
+    display: inline;
+    font-family: italic;
+}
+
+.nav-items{
+    display: inline;
+    margin-left: 999px;
+
+}
+
+.nav-items li{
+    display: inline;
+    margin-left: 10px;
+    
+}
+
+.nav-items li a{
+    text-decoration: none;
+    color: black;
+    font-size: 19px;
+}
+.centre{
+    font-size: large;
+}
+.plan-free{
+    display: inline;
+}
+.price{
+    display: inline;
+}
